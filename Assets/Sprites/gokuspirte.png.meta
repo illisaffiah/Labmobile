@@ -1,0 +1,5930 @@
+fileFormatVersion: 2
+guid: 61d348b8bc3c7a044934c7f0dbdd75a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2066198774087701275
+    second: gokuspirte_0
+  - first:
+      213: 3513771733400176486
+    second: gokuspirte_1
+  - first:
+      213: -3451719442090354238
+    second: gokuspirte_2
+  - first:
+      213: -4720252941752111371
+    second: gokuspirte_3
+  - first:
+      213: 1031895674952979903
+    second: gokuspirte_4
+  - first:
+      213: -7450841400349108951
+    second: gokuspirte_5
+  - first:
+      213: -4676936568020260927
+    second: gokuspirte_6
+  - first:
+      213: 3770236706535354976
+    second: gokuspirte_7
+  - first:
+      213: 3985113655851458265
+    second: gokuspirte_8
+  - first:
+      213: -1277358930761759871
+    second: gokuspirte_9
+  - first:
+      213: 7672104851746994275
+    second: gokuspirte_10
+  - first:
+      213: 3436342327530154976
+    second: gokuspirte_11
+  - first:
+      213: 3486055261587850739
+    second: gokuspirte_12
+  - first:
+      213: -2164405871979292372
+    second: gokuspirte_13
+  - first:
+      213: -7287424013738546620
+    second: gokuspirte_14
+  - first:
+      213: -1383494914342043818
+    second: gokuspirte_15
+  - first:
+      213: 247848040995886331
+    second: gokuspirte_16
+  - first:
+      213: 3009193407337847362
+    second: gokuspirte_17
+  - first:
+      213: -2402636491261637788
+    second: gokuspirte_18
+  - first:
+      213: -8331461659220082520
+    second: gokuspirte_19
+  - first:
+      213: 3859323735357076977
+    second: gokuspirte_20
+  - first:
+      213: 2213362256626108303
+    second: gokuspirte_21
+  - first:
+      213: -4005117315940156916
+    second: gokuspirte_22
+  - first:
+      213: 5681146076697025439
+    second: gokuspirte_23
+  - first:
+      213: 7452266780069272363
+    second: gokuspirte_24
+  - first:
+      213: 9215044192808751371
+    second: gokuspirte_25
+  - first:
+      213: -4136322146708498098
+    second: gokuspirte_26
+  - first:
+      213: -2985211483521964732
+    second: gokuspirte_27
+  - first:
+      213: -5472058508408442864
+    second: gokuspirte_28
+  - first:
+      213: -4218223598106013010
+    second: gokuspirte_29
+  - first:
+      213: -6830233510308900088
+    second: gokuspirte_30
+  - first:
+      213: -2817505902902305186
+    second: gokuspirte_31
+  - first:
+      213: -4490089542164032230
+    second: gokuspirte_32
+  - first:
+      213: -4506819690554509744
+    second: gokuspirte_33
+  - first:
+      213: -1209480847369044492
+    second: gokuspirte_34
+  - first:
+      213: 8090967252591538732
+    second: gokuspirte_35
+  - first:
+      213: 1587852543222882453
+    second: gokuspirte_36
+  - first:
+      213: 115160586984061697
+    second: gokuspirte_37
+  - first:
+      213: -14714794517409445
+    second: gokuspirte_38
+  - first:
+      213: 4733211771907528635
+    second: gokuspirte_39
+  - first:
+      213: -2287532365115052499
+    second: gokuspirte_40
+  - first:
+      213: -6985516424092329771
+    second: gokuspirte_41
+  - first:
+      213: -284108585109291921
+    second: gokuspirte_42
+  - first:
+      213: 6173692435506806988
+    second: gokuspirte_43
+  - first:
+      213: -938822250850180790
+    second: gokuspirte_44
+  - first:
+      213: -7662870311136992310
+    second: gokuspirte_45
+  - first:
+      213: -6418618894329960887
+    second: gokuspirte_46
+  - first:
+      213: -2661114681826972390
+    second: gokuspirte_47
+  - first:
+      213: -4463690673349262124
+    second: gokuspirte_48
+  - first:
+      213: -4536371287051405539
+    second: gokuspirte_49
+  - first:
+      213: 8885534015725233906
+    second: gokuspirte_50
+  - first:
+      213: 8532369112287178249
+    second: gokuspirte_51
+  - first:
+      213: 2384713950081666070
+    second: gokuspirte_52
+  - first:
+      213: 2958121307310634197
+    second: gokuspirte_53
+  - first:
+      213: 418316440264845971
+    second: gokuspirte_54
+  - first:
+      213: -8472978234663444379
+    second: gokuspirte_55
+  - first:
+      213: -9151283457960473332
+    second: gokuspirte_56
+  - first:
+      213: -9120886905743773024
+    second: gokuspirte_57
+  - first:
+      213: -2695777215998923163
+    second: gokuspirte_58
+  - first:
+      213: 2364483968752360497
+    second: gokuspirte_59
+  - first:
+      213: -879198045424451583
+    second: gokuspirte_60
+  - first:
+      213: 4518313086453079269
+    second: gokuspirte_61
+  - first:
+      213: 2483652806028443919
+    second: gokuspirte_62
+  - first:
+      213: 3492600032428251338
+    second: gokuspirte_63
+  - first:
+      213: -5043363121760653176
+    second: gokuspirte_64
+  - first:
+      213: -5862770297778863142
+    second: gokuspirte_65
+  - first:
+      213: -4518448563286114266
+    second: gokuspirte_66
+  - first:
+      213: -7438608876550479238
+    second: gokuspirte_67
+  - first:
+      213: 4299479674563160050
+    second: gokuspirte_68
+  - first:
+      213: 329921898504408704
+    second: gokuspirte_69
+  - first:
+      213: -4953031789227723715
+    second: gokuspirte_70
+  - first:
+      213: -8375780304128700917
+    second: gokuspirte_71
+  - first:
+      213: -4171609960940350346
+    second: gokuspirte_72
+  - first:
+      213: -388168837300809485
+    second: gokuspirte_73
+  - first:
+      213: -2010707228621702462
+    second: gokuspirte_74
+  - first:
+      213: -4307700631311534575
+    second: gokuspirte_75
+  - first:
+      213: -4774722649660247266
+    second: gokuspirte_76
+  - first:
+      213: 7827150987610485440
+    second: gokuspirte_77
+  - first:
+      213: -6064555847993904998
+    second: gokuspirte_78
+  - first:
+      213: -3063087147500266822
+    second: gokuspirte_79
+  - first:
+      213: -2562800737717603710
+    second: gokuspirte_80
+  - first:
+      213: -6775082143702581265
+    second: gokuspirte_81
+  - first:
+      213: 6138869405910288267
+    second: gokuspirte_82
+  - first:
+      213: -138382699095100357
+    second: gokuspirte_83
+  - first:
+      213: -3727266298040554420
+    second: gokuspirte_84
+  - first:
+      213: 6160876358916327164
+    second: gokuspirte_85
+  - first:
+      213: -7963073185628844334
+    second: gokuspirte_86
+  - first:
+      213: -5890466184080646914
+    second: gokuspirte_87
+  - first:
+      213: -3906663548023398032
+    second: gokuspirte_88
+  - first:
+      213: -3041723935912706600
+    second: gokuspirte_89
+  - first:
+      213: -7526857753830443742
+    second: gokuspirte_90
+  - first:
+      213: -5948430938393396377
+    second: gokuspirte_91
+  - first:
+      213: 4309654857608142638
+    second: gokuspirte_92
+  - first:
+      213: -3181014246365672035
+    second: gokuspirte_93
+  - first:
+      213: -1275267785503070595
+    second: gokuspirte_94
+  - first:
+      213: -9047581001120246934
+    second: gokuspirte_95
+  - first:
+      213: -2640532140446138414
+    second: gokuspirte_96
+  - first:
+      213: 5609889735444306835
+    second: gokuspirte_97
+  - first:
+      213: 4969955478906476712
+    second: gokuspirte_98
+  - first:
+      213: 2980117569625664240
+    second: gokuspirte_99
+  - first:
+      213: 8390980162491768629
+    second: gokuspirte_100
+  - first:
+      213: -5091030422311799404
+    second: gokuspirte_101
+  - first:
+      213: -1462078160270433168
+    second: gokuspirte_102
+  - first:
+      213: 4197810597873444664
+    second: gokuspirte_103
+  - first:
+      213: -7206782016795334632
+    second: gokuspirte_104
+  - first:
+      213: 8626832400896596429
+    second: gokuspirte_105
+  - first:
+      213: -4401006959985705555
+    second: gokuspirte_106
+  - first:
+      213: -8896969607773276944
+    second: gokuspirte_107
+  - first:
+      213: -5852272583168138313
+    second: gokuspirte_108
+  - first:
+      213: 5511375361838304877
+    second: gokuspirte_109
+  - first:
+      213: 3314829943880142760
+    second: gokuspirte_110
+  - first:
+      213: 3025968789070486853
+    second: gokuspirte_111
+  - first:
+      213: 7618213007585258325
+    second: gokuspirte_112
+  - first:
+      213: 5893391453787677711
+    second: gokuspirte_113
+  - first:
+      213: 3105132585621179678
+    second: gokuspirte_114
+  - first:
+      213: -1404180794816867530
+    second: gokuspirte_115
+  - first:
+      213: -1029293688090089218
+    second: gokuspirte_116
+  - first:
+      213: 5190216306792541991
+    second: gokuspirte_117
+  - first:
+      213: -8793985819128216463
+    second: gokuspirte_118
+  - first:
+      213: -6062968582411914180
+    second: gokuspirte_119
+  - first:
+      213: 8063466529612756448
+    second: gokuspirte_120
+  - first:
+      213: 5080303310890541164
+    second: gokuspirte_121
+  - first:
+      213: -3864208310282436097
+    second: gokuspirte_122
+  - first:
+      213: 481058143672337321
+    second: gokuspirte_123
+  - first:
+      213: -8752106448019896293
+    second: gokuspirte_124
+  - first:
+      213: -1732327942827057188
+    second: gokuspirte_125
+  - first:
+      213: -5979181009581708195
+    second: gokuspirte_126
+  - first:
+      213: 7752991040930751923
+    second: gokuspirte_127
+  - first:
+      213: 6498395207793658419
+    second: gokuspirte_128
+  - first:
+      213: -8850354161068487685
+    second: gokuspirte_129
+  - first:
+      213: 8527233391350942049
+    second: gokuspirte_130
+  - first:
+      213: -3699606410542996718
+    second: gokuspirte_131
+  - first:
+      213: -7266365902099689149
+    second: gokuspirte_132
+  - first:
+      213: -8327425175600709351
+    second: gokuspirte_133
+  - first:
+      213: 8041334652372523631
+    second: gokuspirte_134
+  - first:
+      213: -4832260362325917172
+    second: gokuspirte_135
+  - first:
+      213: -6370299462728359267
+    second: gokuspirte_136
+  - first:
+      213: 5531759893778074396
+    second: gokuspirte_137
+  - first:
+      213: -4252548559675066917
+    second: gokuspirte_138
+  - first:
+      213: -2362547313449362866
+    second: gokuspirte_139
+  - first:
+      213: 806554562024765758
+    second: gokuspirte_140
+  - first:
+      213: 8439529341840835857
+    second: gokuspirte_141
+  - first:
+      213: -8529233667170584997
+    second: gokuspirte_142
+  - first:
+      213: -6472116583973073274
+    second: gokuspirte_143
+  - first:
+      213: -2340127098877721010
+    second: gokuspirte_144
+  - first:
+      213: -353350563877190459
+    second: gokuspirte_145
+  - first:
+      213: 1858482786415968044
+    second: gokuspirte_146
+  - first:
+      213: -2458179766847688910
+    second: gokuspirte_147
+  - first:
+      213: -1125692658443456772
+    second: gokuspirte_148
+  - first:
+      213: 8760185099625635626
+    second: gokuspirte_149
+  - first:
+      213: 5583886359895239330
+    second: gokuspirte_150
+  - first:
+      213: -2220492331199093938
+    second: gokuspirte_151
+  - first:
+      213: 1569912010288409019
+    second: gokuspirte_152
+  - first:
+      213: -2432083366029835108
+    second: gokuspirte_153
+  - first:
+      213: 1314848856964619064
+    second: gokuspirte_154
+  - first:
+      213: 8702551020230186029
+    second: gokuspirte_155
+  - first:
+      213: 7693938615144332679
+    second: gokuspirte_156
+  - first:
+      213: -1639891582171589646
+    second: gokuspirte_157
+  - first:
+      213: 6251941153368031105
+    second: gokuspirte_158
+  - first:
+      213: -1278561759250695910
+    second: gokuspirte_159
+  - first:
+      213: 9117635536140352246
+    second: gokuspirte_160
+  - first:
+      213: 5116762966199928569
+    second: gokuspirte_161
+  - first:
+      213: 8397606778331658781
+    second: gokuspirte_162
+  - first:
+      213: -245171583354244726
+    second: gokuspirte_163
+  - first:
+      213: 8954900120117190216
+    second: gokuspirte_164
+  - first:
+      213: -4865166349986790807
+    second: gokuspirte_165
+  - first:
+      213: -8199917954292177672
+    second: gokuspirte_166
+  - first:
+      213: 458548112781306771
+    second: gokuspirte_167
+  - first:
+      213: -4171451891109054450
+    second: gokuspirte_168
+  - first:
+      213: 2453551026563434257
+    second: gokuspirte_169
+  - first:
+      213: -1064390835843557077
+    second: gokuspirte_170
+  - first:
+      213: -6228029006067164805
+    second: gokuspirte_171
+  - first:
+      213: -4209296454291145364
+    second: gokuspirte_172
+  - first:
+      213: 1643176745971563510
+    second: gokuspirte_173
+  - first:
+      213: 8392413583703804799
+    second: gokuspirte_174
+  - first:
+      213: -4860898984552064351
+    second: gokuspirte_175
+  - first:
+      213: 4443122782333253484
+    second: gokuspirte_176
+  - first:
+      213: 1086959872415310443
+    second: gokuspirte_177
+  - first:
+      213: -8753779778291832410
+    second: gokuspirte_178
+  - first:
+      213: 7442264767922459619
+    second: gokuspirte_179
+  - first:
+      213: 8194292583250211023
+    second: gokuspirte_180
+  - first:
+      213: 4020517231060713048
+    second: gokuspirte_181
+  - first:
+      213: -7700700388294052183
+    second: gokuspirte_182
+  - first:
+      213: 1719667138568108183
+    second: gokuspirte_183
+  - first:
+      213: -6795711004005939429
+    second: gokuspirte_184
+  - first:
+      213: -2728841438851991844
+    second: gokuspirte_185
+  - first:
+      213: -5960681866644059767
+    second: gokuspirte_186
+  - first:
+      213: 279270998904775259
+    second: gokuspirte_187
+  - first:
+      213: 7350650068151022377
+    second: gokuspirte_188
+  - first:
+      213: -1660993240710447167
+    second: gokuspirte_189
+  - first:
+      213: 1607990602456924032
+    second: gokuspirte_190
+  - first:
+      213: -7178235335898025044
+    second: gokuspirte_191
+  - first:
+      213: -1862790319062921241
+    second: gokuspirte_192
+  - first:
+      213: -5744405880633767634
+    second: gokuspirte_193
+  - first:
+      213: 1580508081098300349
+    second: gokuspirte_194
+  - first:
+      213: -3101192754656599930
+    second: gokuspirte_195
+  - first:
+      213: -7865815053648507474
+    second: gokuspirte_196
+  - first:
+      213: -1707404165300759415
+    second: gokuspirte_197
+  - first:
+      213: 406967036534808689
+    second: gokuspirte_198
+  - first:
+      213: 308016179752479587
+    second: gokuspirte_199
+  - first:
+      213: -1144761666028492332
+    second: gokuspirte_200
+  - first:
+      213: 2408097675063908157
+    second: gokuspirte_201
+  - first:
+      213: -2315529541722261987
+    second: gokuspirte_202
+  - first:
+      213: -1197336681361010027
+    second: gokuspirte_203
+  - first:
+      213: 10308211667427496
+    second: gokuspirte_204
+  - first:
+      213: 6197053913370341301
+    second: gokuspirte_205
+  - first:
+      213: 8821916014001491857
+    second: gokuspirte_206
+  - first:
+      213: -4117897564764898846
+    second: gokuspirte_207
+  - first:
+      213: 8816960993815159474
+    second: gokuspirte_208
+  - first:
+      213: 1203039856838880514
+    second: gokuspirte_209
+  - first:
+      213: 6077177026885063161
+    second: gokuspirte_210
+  - first:
+      213: -1929489737452878341
+    second: gokuspirte_211
+  - first:
+      213: -1844838919646929210
+    second: gokuspirte_212
+  - first:
+      213: -5077744234590955275
+    second: gokuspirte_213
+  - first:
+      213: 777841636818461950
+    second: gokuspirte_214
+  - first:
+      213: -2704988226902714810
+    second: gokuspirte_215
+  - first:
+      213: -3085481508514673164
+    second: gokuspirte_216
+  - first:
+      213: 5025453192372133628
+    second: gokuspirte_217
+  - first:
+      213: 7498766151409805709
+    second: gokuspirte_218
+  - first:
+      213: -7523676043114768785
+    second: gokuspirte_219
+  - first:
+      213: 6996271476513896001
+    second: gokuspirte_220
+  - first:
+      213: -947167526312954936
+    second: gokuspirte_221
+  - first:
+      213: -8415644935580222165
+    second: gokuspirte_222
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gokuspirte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 195
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eca72389236353e0800000000000000
+      internalID: -2066198774087701275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 762
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667402756cc63c030800000000000000
+      internalID: 3513771733400176486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 757
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c915e594770910d0800000000000000
+      internalID: -3451719442090354238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 653
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe6fdc55fa4e7eb0800000000000000
+      internalID: -4720252941752111371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 653
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb595de26a7025e00800000000000000
+      internalID: 1031895674952979903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 653
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925da6ef83b499890800000000000000
+      internalID: -7450841400349108951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 653
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c72e1a88fe281fb0800000000000000
+      internalID: -4676936568020260927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 653
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062bd2c1f42925430800000000000000
+      internalID: 3770236706535354976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 677
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de959681c7fd4730800000000000000
+      internalID: 3985113655851458265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 677
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183c549f1d8e54ee0800000000000000
+      internalID: -1277358930761759871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 677
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3683eefc6bac87a60800000000000000
+      internalID: 7672104851746994275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 677
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebe21fe32750bf20800000000000000
+      internalID: 3436342327530154976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 677
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5435e5ac4f06030800000000000000
+      internalID: 3486055261587850739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 678
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2997e2b35c76f1e0800000000000000
+      internalID: -2164405871979292372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 678
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a667d487eddda90800000000000000
+      internalID: -7287424013738546620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 605
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f351a94b6dccce0800000000000000
+      internalID: -1383494914342043818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 605
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf416d9ea78807300800000000000000
+      internalID: 247848040995886331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 606
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ad1d8e57dc2c920800000000000000
+      internalID: 3009193407337847362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 605
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b85f547de18aed0800000000000000
+      internalID: -2402636491261637788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 606
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0866e43c3b06c80800000000000000
+      internalID: -8331461659220082520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 606
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5313f5d721f8530800000000000000
+      internalID: 3859323735357076977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 607
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87c479de3177be10800000000000000
+      internalID: 2213362256626108303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 606
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0afe9b6507fa68c0800000000000000
+      internalID: -4005117315940156916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 607
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b51aab14c77de40800000000000000
+      internalID: 5681146076697025439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 607
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b19751725cb6760800000000000000
+      internalID: 7452266780069272363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_25
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 607
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0154e5bed962ef70800000000000000
+      internalID: 9215044192808751371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_26
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 606
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49dbd83ce4d896c0800000000000000
+      internalID: -4136322146708498098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 606
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445a149d8f56296d0800000000000000
+      internalID: -2985211483521964732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 606
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010392067c75f04b0800000000000000
+      internalID: -5472058508408442864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 606
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea298b39cfbd575c0800000000000000
+      internalID: -4218223598106013010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_30
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 606
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803911d7fc22631a0800000000000000
+      internalID: -6830233510308900088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_31
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 606
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e11f02f4536e8d0800000000000000
+      internalID: -2817505902902305186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 560
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15dd95d95fffa1c0800000000000000
+      internalID: -4490089542164032230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 562
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05633cd9e5f8471c0800000000000000
+      internalID: -4506819690554509744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 561
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdfde1d39f073fe0800000000000000
+      internalID: -1209480847369044492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 563
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22790439d3e84070800000000000000
+      internalID: 8090967252591538732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 562
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590208aa97f290610800000000000000
+      internalID: 1587852543222882453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 562
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b7f4791f1299100800000000000000
+      internalID: 115160586984061697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 562
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51d8dbe8f8bbcff0800000000000000
+      internalID: -14714794517409445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_39
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 561
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7de37670fbfa140800000000000000
+      internalID: 4733211771907528635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_40
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 564
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eab1d0f6d0140e0800000000000000
+      internalID: -2287532365115052499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 564
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d159b2d57e0f90800000000000000
+      internalID: -6985516424092329771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_42
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 564
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cfbe24fb4ae0cf0800000000000000
+      internalID: -284108585109291921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 564
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc046ea7f8c5da550800000000000000
+      internalID: 6173692435506806988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 564
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41a7de0322a8f2f0800000000000000
+      internalID: -938822250850180790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_45
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 564
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3eac83d0408a590800000000000000
+      internalID: -7662870311136992310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 561
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9462ad67f1c7ce6a0800000000000000
+      internalID: -6418618894329960887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 515
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d602bcb42d11bd0800000000000000
+      internalID: -2661114681826972390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 519
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d40bc37bf8cd02c0800000000000000
+      internalID: -4463690673349262124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 517
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17f40269529b01c0800000000000000
+      internalID: -4536371287051405539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_50
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 517
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6e3f61c12cf4b70800000000000000
+      internalID: 8885534015725233906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 516
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e646e4080196670800000000000000
+      internalID: 8532369112287178249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_52
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 519
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c498de3b4381120800000000000000
+      internalID: 2384713950081666070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_53
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 516
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4b3ccf7ab5d0920800000000000000
+      internalID: 2958121307310634197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 515
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a21b906982ec500800000000000000
+      internalID: 418316440264845971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 519
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560e445ff2fe96a80800000000000000
+      internalID: -8472978234663444379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_56
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 519
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d8b593e2c100180800000000000000
+      internalID: -9151283457960473332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_57
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 518
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a271aa0fa91c6180800000000000000
+      internalID: -9120886905743773024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 517
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eeac6a7eca69ad0800000000000000
+      internalID: -2695777215998923163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_59
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 517
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c179a54a550d020800000000000000
+      internalID: 2364483968752360497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 517
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100024f29067cc3f0800000000000000
+      internalID: -879198045424451583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_61
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 517
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecd80620d544be30800000000000000
+      internalID: 4518313086453079269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_62
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 517
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f014ab07115b77220800000000000000
+      internalID: 2483652806028443919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 469
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac857639935387030800000000000000
+      internalID: 3492600032428251338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 469
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880b62e26ff520ab0800000000000000
+      internalID: -5043363121760653176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_65
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 475
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad30e29f97143aea0800000000000000
+      internalID: -5862770297778863142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_66
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 466
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6200571b8fe3b41c0800000000000000
+      internalID: -4518448563286114266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_67
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 466
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72242263a0c4c890800000000000000
+      internalID: -7438608876550479238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_68
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 471
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f769510cf1daab30800000000000000
+      internalID: 4299479674563160050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 471
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e4afbf73e149400800000000000000
+      internalID: 329921898504408704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_70
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 464
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d343dd974db434bb0800000000000000
+      internalID: -4953031789227723715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_71
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 464
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e02bfa03043cb80800000000000000
+      internalID: -8375780304128700917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_72
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 422
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6745ba8b7d67b16c0800000000000000
+      internalID: -4171609960940350346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_73
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 473
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f01fc3cf72fc9af0800000000000000
+      internalID: -388168837300809485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_74
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 473
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca71b2cd688814e0800000000000000
+      internalID: -2010707228621702462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_75
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 477
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11633f75919f734c0800000000000000
+      internalID: -4307700631311534575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_76
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 477
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e133df53c07ccbdb0800000000000000
+      internalID: -4774722649660247266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_77
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 488
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2fedb6a50af9c60800000000000000
+      internalID: 7827150987610485440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_78
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 477
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a903ecf669e56dba0800000000000000
+      internalID: -6064555847993904998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_79
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 477
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba9e21e77abd75d0800000000000000
+      internalID: -3063087147500266822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_80
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 470
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282bb3eae4a1f6cd0800000000000000
+      internalID: -2562800737717603710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_81
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 469
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feff38cafa21af1a0800000000000000
+      internalID: -6775082143702581265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_82
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 476
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87cbc51335a13550800000000000000
+      internalID: 6138869405910288267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_83
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 475
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3470691bad541ef0800000000000000
+      internalID: -138382699095100357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 427
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ce102cc07164cc0800000000000000
+      internalID: -3727266298040554420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_85
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 427
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64f4e1864df7550800000000000000
+      internalID: 6160876358916327164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_86
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 427
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de872ab02b7d7190800000000000000
+      internalID: -7963073185628844334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 425
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc1c60f63cd04ea0800000000000000
+      internalID: -5890466184080646914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_88
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 423
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0712913933eb8c9c0800000000000000
+      internalID: -3906663548023398032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_89
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 427
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddbe1f2230a9c5d0800000000000000
+      internalID: -3041723935912706600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_90
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 423
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225ba0c70ca3b8790800000000000000
+      internalID: -7526857753830443742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_91
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 423
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b3e12e39de27da0800000000000000
+      internalID: -5948430938393396377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 425
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f154c6248fecb30800000000000000
+      internalID: 4309654857608142638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_93
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 425
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dcaeb8564cad3d0800000000000000
+      internalID: -3181014246365672035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_94
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 424
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76279ba4b65d4ee0800000000000000
+      internalID: -1275267785503070595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_95
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 424
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6397aff309807280800000000000000
+      internalID: -9047581001120246934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_96
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 428
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfb4b62202fa5bd0800000000000000
+      internalID: -2640532140446138414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_97
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 428
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b944eedf45add40800000000000000
+      internalID: 5609889735444306835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_98
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 428
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a81ab51d24d8f440800000000000000
+      internalID: 4969955478906476712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_99
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 431
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa2076e3218b5920800000000000000
+      internalID: 2980117569625664240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_100
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 430
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fdbae1000c27470800000000000000
+      internalID: 8390980162491768629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_101
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 431
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f569edc60959b0800000000000000
+      internalID: -5091030422311799404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_102
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 379
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074693fd8a7a5bbe0800000000000000
+      internalID: -1462078160270433168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_103
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 379
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837ed907f7e914a30800000000000000
+      internalID: 4197810597873444664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_104
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 379
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818ad3b50fd5cfb90800000000000000
+      internalID: -7206782016795334632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_105
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 379
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc995489c5aa8b770800000000000000
+      internalID: 8626832400896596429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_106
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 379
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadb708cc7b7ce2c0800000000000000
+      internalID: -4401006959985705555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_107
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 379
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f43a37a74d978480800000000000000
+      internalID: -8896969607773276944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_108
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 379
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3618f971d88cea0800000000000000
+      internalID: -5852272583168138313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_109
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 379
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e463ae0b65c7c40800000000000000
+      internalID: 5511375361838304877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_110
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 379
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afcdcf6544a00e20800000000000000
+      internalID: 3314829943880142760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_111
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 379
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d17f5d4966ef920800000000000000
+      internalID: 3025968789070486853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_112
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 379
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b216c0e5459b960800000000000000
+      internalID: 7618213007585258325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_113
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 379
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04665d7d4889c150800000000000000
+      internalID: 5893391453787677711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_114
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 380
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dc07a82a5a71b20800000000000000
+      internalID: 3105132585621179678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_115
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 380
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633d38cb109538ce0800000000000000
+      internalID: -1404180794816867530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_116
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 380
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8a6d718d637b1f0800000000000000
+      internalID: -1029293688090089218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_117
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 380
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f2fc96b3a570840800000000000000
+      internalID: 5190216306792541991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_118
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 337
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1744a037d7c75f580800000000000000
+      internalID: -8793985819128216463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_119
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 337
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34fbf082320cdba0800000000000000
+      internalID: -6062968582411914180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_120
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 337
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5f1db261037ef60800000000000000
+      internalID: 8063466529612756448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_121
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 337
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c602fd4d1fcd08640800000000000000
+      internalID: 5080303310890541164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_122
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 337
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1c087e3039f5ac0800000000000000
+      internalID: -3864208310282436097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_123
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 333
+        width: 152
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a306e935df0da600800000000000000
+      internalID: 481058143672337321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_124
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 334
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b184e516e854a8680800000000000000
+      internalID: -8752106448019896293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_125
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 334
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf5f4d0ae885f7e0800000000000000
+      internalID: -1732327942827057188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_126
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 334
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cee140d8ea50da0800000000000000
+      internalID: -5979181009581708195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_127
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 329
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5a67d4648289b60800000000000000
+      internalID: 7752991040930751923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_128
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 331
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a44a2f200fe2a50800000000000000
+      internalID: 6498395207793658419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_129
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 334
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbcc1d18c93d2580800000000000000
+      internalID: -8850354161068487685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_130
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 334
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16982581791d65670800000000000000
+      internalID: 8527233391350942049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_131
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 334
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213a3da229b58acc0800000000000000
+      internalID: -3699606410542996718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_132
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 287
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341565df5bea82b90800000000000000
+      internalID: -7266365902099689149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_133
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 287
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911cca26cea0f6c80800000000000000
+      internalID: -8327425175600709351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_134
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 287
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a14b2f24f889f60800000000000000
+      internalID: 8041334652372523631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_135
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 288
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c020d598dcc50fcb0800000000000000
+      internalID: -4832260362325917172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_136
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 288
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92e633d3662897a0800000000000000
+      internalID: -6370299462728359267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_137
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 287
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b056b9052c4cc40800000000000000
+      internalID: 5531759893778074396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_138
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 289
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5f77ead99ebf4c0800000000000000
+      internalID: -4252548559675066917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_139
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 289
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a1cc85cbb863fd0800000000000000
+      internalID: -2362547313449362866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_140
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 289
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39f471d915713b00800000000000000
+      internalID: 806554562024765758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_141
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 289
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115c8ebc83b3f1570800000000000000
+      internalID: 8439529341840835857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_142
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 288
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56bef56b2312a980800000000000000
+      internalID: -8529233667170584997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_143
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 288
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ece53f14c6e26a0800000000000000
+      internalID: -6472116583973073274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_144
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 288
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46c0265dc2368fd0800000000000000
+      internalID: -2340127098877721010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_145
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 289
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c48ae6c885a81bf0800000000000000
+      internalID: -353350563877190459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_146
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 291
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f70816f38aac910800000000000000
+      internalID: 1858482786415968044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_147
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 290
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fadfaa68ac2edd0800000000000000
+      internalID: -2458179766847688910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_148
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 285
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe6637cd7cb060f0800000000000000
+      internalID: -1125692658443456772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_149
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 270
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f1bd54fed629970800000000000000
+      internalID: 8760185099625635626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_150
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 276
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa64b34f03fd7d40800000000000000
+      internalID: 5583886359895239330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_151
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43266c4df93f21e0800000000000000
+      internalID: -2220492331199093938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_152
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 246
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb92cd5d7a279c510800000000000000
+      internalID: 1569912010288409019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_153
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 245
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94c7a770118f3ed0800000000000000
+      internalID: -2432083366029835108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_154
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 239
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b54bca1184f3210800000000000000
+      internalID: 1314848856964619064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_155
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 250
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2498887b0ca5c870800000000000000
+      internalID: 8702551020230186029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_156
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 248
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78db65ff76c56ca60800000000000000
+      internalID: 7693938615144332679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_157
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 248
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f352866b4fed39e0800000000000000
+      internalID: -1639891582171589646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_158
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 248
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fb523da5b53c650800000000000000
+      internalID: 6251941153368031105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_159
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 248
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b674aad2a14ee0800000000000000
+      internalID: -1278561759250695910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_160
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 245
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fabf1b7639588e70800000000000000
+      internalID: 9117635536140352246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_161
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 248
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f68838dec4620740800000000000000
+      internalID: 5116762966199928569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_162
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 247
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1afed95fda4a8470800000000000000
+      internalID: 8397606778331658781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_163
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 247
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8176217eb9f89cf0800000000000000
+      internalID: -245171583354244726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_164
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 245
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e10b2d632364c70800000000000000
+      internalID: 8954900120117190216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_165
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 246
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9628adf3bf47b7cb0800000000000000
+      internalID: -4865166349986790807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_166
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 242
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4211bc01a043e80800000000000000
+      internalID: -8199917954292177672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_167
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 246
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b61ce34171d5600800000000000000
+      internalID: 458548112781306771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_168
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 245
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0830d83b960c16c0800000000000000
+      internalID: -4171451891109054450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_169
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 247
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117cb90c8a3cc0220800000000000000
+      internalID: 2453551026563434257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_170
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 198
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b291d579c268a31f0800000000000000
+      internalID: -1064390835843557077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_171
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b799982dd989199a0800000000000000
+      internalID: -6228029006067164805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_172
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 198
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d3aa73d239595c0800000000000000
+      internalID: -4209296454291145364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_173
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 198
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb31d66b8cbdc610800000000000000
+      internalID: 1643176745971563510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_174
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 198
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b04d080b7d77470800000000000000
+      internalID: 8392413583703804799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_175
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 198
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa97b0b02e9a8cb0800000000000000
+      internalID: -4860898984552064351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_176
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 180
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c673b6e31a429ad30800000000000000
+      internalID: 4443122782333253484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_177
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 198
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b622b68be38a51f00800000000000000
+      internalID: 1086959872415310443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_178
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 190
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9eae0dba3548680800000000000000
+      internalID: -8753779778291832410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_179
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 189
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e35c68206c384760800000000000000
+      internalID: 7442264767922459619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_180
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 190
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc03f3270b9f7b170800000000000000
+      internalID: 8194292583250211023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_181
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 194
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ef5babe1fbbc730800000000000000
+      internalID: 4020517231060713048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_182
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 197
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a635020ccd912590800000000000000
+      internalID: -7700700388294052183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_183
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 195
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798b34eb62c7dd710800000000000000
+      internalID: 1719667138568108183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_184
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 193
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17430ad8d8c0b1a0800000000000000
+      internalID: -6795711004005939429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_185
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 191
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd67cdc5b25312ad0800000000000000
+      internalID: -2728841438851991844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_186
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 190
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989819f5c67674da0800000000000000
+      internalID: -5960681866644059767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_187
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 190
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52a9cd6e7b20e300800000000000000
+      internalID: 279270998904775259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_188
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 189
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923b754aa41c20660800000000000000
+      internalID: 7350650068151022377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_189
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 154
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cff029a277f2f8e0800000000000000
+      internalID: -1660993240710447167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_190
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 154
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f7c95feeab05610800000000000000
+      internalID: 1607990602456924032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_191
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 154
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca334a17ef8c16c90800000000000000
+      internalID: -7178235335898025044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_192
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 180
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efc735031a0626e0800000000000000
+      internalID: -1862790319062921241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_193
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 171
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29c8276945c740b0800000000000000
+      internalID: -5744405880633767634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_194
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb9f72d9b71fe510800000000000000
+      internalID: 1580508081098300349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_195
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 171
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680ada6de9956f4d0800000000000000
+      internalID: -3101192754656599930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_196
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead4c5232e207d290800000000000000
+      internalID: -7865815053648507474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_197
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984d93735f41e48e0800000000000000
+      internalID: -1707404165300759415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_198
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 142
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17063ff0d56d5a500800000000000000
+      internalID: 406967036534808689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_199
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 149
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b2833651b464400800000000000000
+      internalID: 308016179752479587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_200
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 136
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d923e7745dfc10f0800000000000000
+      internalID: -1144761666028492332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_201
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 140
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37d0aaa3184b6120800000000000000
+      internalID: 2408097675063908157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_202
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 138
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16b8b666269ddfd0800000000000000
+      internalID: -2315529541722261987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_203
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 139
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5929eeec1a4326fe0800000000000000
+      internalID: -1197336681361010027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_204
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0e4be834f942000800000000000000
+      internalID: 10308211667427496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_205
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf226863bb500650800000000000000
+      internalID: 6197053913370341301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 106
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f83eccfddbd6a70800000000000000
+      internalID: 8821916014001491857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_207
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 106
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9fdbe7bf94ad6c0800000000000000
+      internalID: -4117897564764898846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_208
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 106
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2e3d24f432c5a70800000000000000
+      internalID: 8816960993815159474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_209
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 74
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20da485306e02b010800000000000000
+      internalID: 1203039856838880514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_210
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 74
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f116a4ce48765450800000000000000
+      internalID: 6077177026885063161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_211
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 73
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf50c518e431935e0800000000000000
+      internalID: -1929489737452878341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_212
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 71
+        width: 157
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce11a6e6c0d566e0800000000000000
+      internalID: -1844838919646929210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_213
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f81bec858a3889b0800000000000000
+      internalID: -5077744234590955275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_214
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4a216f8d27bca00800000000000000
+      internalID: 777841636818461950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_215
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 61
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64699dd0a83f57ad0800000000000000
+      internalID: -2704988226902714810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd42f36aea2e25d0800000000000000
+      internalID: -3085481508514673164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_217
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 25
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe91be6d0ffdb540800000000000000
+      internalID: 5025453192372133628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_218
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 22
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d892184a518f01860800000000000000
+      internalID: 7498766151409805709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_219
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 23
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66170d3088869790800000000000000
+      internalID: -7523676043114768785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_220
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 12
+        width: 130
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146fecd07dfb71160800000000000000
+      internalID: 6996271476513896001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_221
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 12
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3b453372cfad2f0800000000000000
+      internalID: -947167526312954936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gokuspirte_222
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 11
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dfce2e48f953b80800000000000000
+      internalID: -8415644935580222165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 53a2d5395515a5243ba6ba5d9eaa606f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      gokuspirte_0: -2066198774087701275
+      gokuspirte_1: 3513771733400176486
+      gokuspirte_10: 7672104851746994275
+      gokuspirte_100: 8390980162491768629
+      gokuspirte_101: -5091030422311799404
+      gokuspirte_102: -1462078160270433168
+      gokuspirte_103: 4197810597873444664
+      gokuspirte_104: -7206782016795334632
+      gokuspirte_105: 8626832400896596429
+      gokuspirte_106: -4401006959985705555
+      gokuspirte_107: -8896969607773276944
+      gokuspirte_108: -5852272583168138313
+      gokuspirte_109: 5511375361838304877
+      gokuspirte_11: 3436342327530154976
+      gokuspirte_110: 3314829943880142760
+      gokuspirte_111: 3025968789070486853
+      gokuspirte_112: 7618213007585258325
+      gokuspirte_113: 5893391453787677711
+      gokuspirte_114: 3105132585621179678
+      gokuspirte_115: -1404180794816867530
+      gokuspirte_116: -1029293688090089218
+      gokuspirte_117: 5190216306792541991
+      gokuspirte_118: -8793985819128216463
+      gokuspirte_119: -6062968582411914180
+      gokuspirte_12: 3486055261587850739
+      gokuspirte_120: 8063466529612756448
+      gokuspirte_121: 5080303310890541164
+      gokuspirte_122: -3864208310282436097
+      gokuspirte_123: 481058143672337321
+      gokuspirte_124: -8752106448019896293
+      gokuspirte_125: -1732327942827057188
+      gokuspirte_126: -5979181009581708195
+      gokuspirte_127: 7752991040930751923
+      gokuspirte_128: 6498395207793658419
+      gokuspirte_129: -8850354161068487685
+      gokuspirte_13: -2164405871979292372
+      gokuspirte_130: 8527233391350942049
+      gokuspirte_131: -3699606410542996718
+      gokuspirte_132: -7266365902099689149
+      gokuspirte_133: -8327425175600709351
+      gokuspirte_134: 8041334652372523631
+      gokuspirte_135: -4832260362325917172
+      gokuspirte_136: -6370299462728359267
+      gokuspirte_137: 5531759893778074396
+      gokuspirte_138: -4252548559675066917
+      gokuspirte_139: -2362547313449362866
+      gokuspirte_14: -7287424013738546620
+      gokuspirte_140: 806554562024765758
+      gokuspirte_141: 8439529341840835857
+      gokuspirte_142: -8529233667170584997
+      gokuspirte_143: -6472116583973073274
+      gokuspirte_144: -2340127098877721010
+      gokuspirte_145: -353350563877190459
+      gokuspirte_146: 1858482786415968044
+      gokuspirte_147: -2458179766847688910
+      gokuspirte_148: -1125692658443456772
+      gokuspirte_149: 8760185099625635626
+      gokuspirte_15: -1383494914342043818
+      gokuspirte_150: 5583886359895239330
+      gokuspirte_151: -2220492331199093938
+      gokuspirte_152: 1569912010288409019
+      gokuspirte_153: -2432083366029835108
+      gokuspirte_154: 1314848856964619064
+      gokuspirte_155: 8702551020230186029
+      gokuspirte_156: 7693938615144332679
+      gokuspirte_157: -1639891582171589646
+      gokuspirte_158: 6251941153368031105
+      gokuspirte_159: -1278561759250695910
+      gokuspirte_16: 247848040995886331
+      gokuspirte_160: 9117635536140352246
+      gokuspirte_161: 5116762966199928569
+      gokuspirte_162: 8397606778331658781
+      gokuspirte_163: -245171583354244726
+      gokuspirte_164: 8954900120117190216
+      gokuspirte_165: -4865166349986790807
+      gokuspirte_166: -8199917954292177672
+      gokuspirte_167: 458548112781306771
+      gokuspirte_168: -4171451891109054450
+      gokuspirte_169: 2453551026563434257
+      gokuspirte_17: 3009193407337847362
+      gokuspirte_170: -1064390835843557077
+      gokuspirte_171: -6228029006067164805
+      gokuspirte_172: -4209296454291145364
+      gokuspirte_173: 1643176745971563510
+      gokuspirte_174: 8392413583703804799
+      gokuspirte_175: -4860898984552064351
+      gokuspirte_176: 4443122782333253484
+      gokuspirte_177: 1086959872415310443
+      gokuspirte_178: -8753779778291832410
+      gokuspirte_179: 7442264767922459619
+      gokuspirte_18: -2402636491261637788
+      gokuspirte_180: 8194292583250211023
+      gokuspirte_181: 4020517231060713048
+      gokuspirte_182: -7700700388294052183
+      gokuspirte_183: 1719667138568108183
+      gokuspirte_184: -6795711004005939429
+      gokuspirte_185: -2728841438851991844
+      gokuspirte_186: -5960681866644059767
+      gokuspirte_187: 279270998904775259
+      gokuspirte_188: 7350650068151022377
+      gokuspirte_189: -1660993240710447167
+      gokuspirte_19: -8331461659220082520
+      gokuspirte_190: 1607990602456924032
+      gokuspirte_191: -7178235335898025044
+      gokuspirte_192: -1862790319062921241
+      gokuspirte_193: -5744405880633767634
+      gokuspirte_194: 1580508081098300349
+      gokuspirte_195: -3101192754656599930
+      gokuspirte_196: -7865815053648507474
+      gokuspirte_197: -1707404165300759415
+      gokuspirte_198: 406967036534808689
+      gokuspirte_199: 308016179752479587
+      gokuspirte_2: -3451719442090354238
+      gokuspirte_20: 3859323735357076977
+      gokuspirte_200: -1144761666028492332
+      gokuspirte_201: 2408097675063908157
+      gokuspirte_202: -2315529541722261987
+      gokuspirte_203: -1197336681361010027
+      gokuspirte_204: 10308211667427496
+      gokuspirte_205: 6197053913370341301
+      gokuspirte_206: 8821916014001491857
+      gokuspirte_207: -4117897564764898846
+      gokuspirte_208: 8816960993815159474
+      gokuspirte_209: 1203039856838880514
+      gokuspirte_21: 2213362256626108303
+      gokuspirte_210: 6077177026885063161
+      gokuspirte_211: -1929489737452878341
+      gokuspirte_212: -1844838919646929210
+      gokuspirte_213: -5077744234590955275
+      gokuspirte_214: 777841636818461950
+      gokuspirte_215: -2704988226902714810
+      gokuspirte_216: -3085481508514673164
+      gokuspirte_217: 5025453192372133628
+      gokuspirte_218: 7498766151409805709
+      gokuspirte_219: -7523676043114768785
+      gokuspirte_22: -4005117315940156916
+      gokuspirte_220: 6996271476513896001
+      gokuspirte_221: -947167526312954936
+      gokuspirte_222: -8415644935580222165
+      gokuspirte_23: 5681146076697025439
+      gokuspirte_24: 7452266780069272363
+      gokuspirte_25: 9215044192808751371
+      gokuspirte_26: -4136322146708498098
+      gokuspirte_27: -2985211483521964732
+      gokuspirte_28: -5472058508408442864
+      gokuspirte_29: -4218223598106013010
+      gokuspirte_3: -4720252941752111371
+      gokuspirte_30: -6830233510308900088
+      gokuspirte_31: -2817505902902305186
+      gokuspirte_32: -4490089542164032230
+      gokuspirte_33: -4506819690554509744
+      gokuspirte_34: -1209480847369044492
+      gokuspirte_35: 8090967252591538732
+      gokuspirte_36: 1587852543222882453
+      gokuspirte_37: 115160586984061697
+      gokuspirte_38: -14714794517409445
+      gokuspirte_39: 4733211771907528635
+      gokuspirte_4: 1031895674952979903
+      gokuspirte_40: -2287532365115052499
+      gokuspirte_41: -6985516424092329771
+      gokuspirte_42: -284108585109291921
+      gokuspirte_43: 6173692435506806988
+      gokuspirte_44: -938822250850180790
+      gokuspirte_45: -7662870311136992310
+      gokuspirte_46: -6418618894329960887
+      gokuspirte_47: -2661114681826972390
+      gokuspirte_48: -4463690673349262124
+      gokuspirte_49: -4536371287051405539
+      gokuspirte_5: -7450841400349108951
+      gokuspirte_50: 8885534015725233906
+      gokuspirte_51: 8532369112287178249
+      gokuspirte_52: 2384713950081666070
+      gokuspirte_53: 2958121307310634197
+      gokuspirte_54: 418316440264845971
+      gokuspirte_55: -8472978234663444379
+      gokuspirte_56: -9151283457960473332
+      gokuspirte_57: -9120886905743773024
+      gokuspirte_58: -2695777215998923163
+      gokuspirte_59: 2364483968752360497
+      gokuspirte_6: -4676936568020260927
+      gokuspirte_60: -879198045424451583
+      gokuspirte_61: 4518313086453079269
+      gokuspirte_62: 2483652806028443919
+      gokuspirte_63: 3492600032428251338
+      gokuspirte_64: -5043363121760653176
+      gokuspirte_65: -5862770297778863142
+      gokuspirte_66: -4518448563286114266
+      gokuspirte_67: -7438608876550479238
+      gokuspirte_68: 4299479674563160050
+      gokuspirte_69: 329921898504408704
+      gokuspirte_7: 3770236706535354976
+      gokuspirte_70: -4953031789227723715
+      gokuspirte_71: -8375780304128700917
+      gokuspirte_72: -4171609960940350346
+      gokuspirte_73: -388168837300809485
+      gokuspirte_74: -2010707228621702462
+      gokuspirte_75: -4307700631311534575
+      gokuspirte_76: -4774722649660247266
+      gokuspirte_77: 7827150987610485440
+      gokuspirte_78: -6064555847993904998
+      gokuspirte_79: -3063087147500266822
+      gokuspirte_8: 3985113655851458265
+      gokuspirte_80: -2562800737717603710
+      gokuspirte_81: -6775082143702581265
+      gokuspirte_82: 6138869405910288267
+      gokuspirte_83: -138382699095100357
+      gokuspirte_84: -3727266298040554420
+      gokuspirte_85: 6160876358916327164
+      gokuspirte_86: -7963073185628844334
+      gokuspirte_87: -5890466184080646914
+      gokuspirte_88: -3906663548023398032
+      gokuspirte_89: -3041723935912706600
+      gokuspirte_9: -1277358930761759871
+      gokuspirte_90: -7526857753830443742
+      gokuspirte_91: -5948430938393396377
+      gokuspirte_92: 4309654857608142638
+      gokuspirte_93: -3181014246365672035
+      gokuspirte_94: -1275267785503070595
+      gokuspirte_95: -9047581001120246934
+      gokuspirte_96: -2640532140446138414
+      gokuspirte_97: 5609889735444306835
+      gokuspirte_98: 4969955478906476712
+      gokuspirte_99: 2980117569625664240
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
